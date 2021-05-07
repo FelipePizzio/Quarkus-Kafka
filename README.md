@@ -1,3 +1,6 @@
+Projeto desenvolvido no bootcamp do Banco Inter, na platafoma da DIO - Digital Innovation One.
+
+
 ## About CQRS - Command Query Responsibility Segregation
 
 According with [Martin Folwer](https://martinfowler.com/bliki/CQRS.html)
